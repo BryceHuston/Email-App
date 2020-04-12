@@ -1,5 +1,6 @@
 # Email-App
-Basic Java project demonstrating creating email account for new hires
+Basic Java project demonstrating how to create email accounts for new hires
+
 The application will do the following:
 - Generate an email with the following syntax: firstname.lastname@department.company.com
 - Determine the department (sales, development, accounting) if none leave blank
